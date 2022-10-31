@@ -23,7 +23,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Impact Additive
+  m_Name: Impact01 Additive
   m_Shader: {fileID: -6465566751694194690, guid: 3479227352a334d7299dcf80c98ec139,
     type: 3}
   m_ShaderKeywords: _ENABLE_FOG_ON_TRANSPARENT _SURFACE_TYPE_TRANSPARENT
