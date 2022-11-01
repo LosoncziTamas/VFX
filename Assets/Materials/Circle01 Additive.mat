@@ -23,7 +23,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Impact02 Additive 1
+  m_Name: Circle01 Additive
   m_Shader: {fileID: -6465566751694194690, guid: 3479227352a334d7299dcf80c98ec139,
     type: 3}
   m_ShaderKeywords: _ENABLE_FOG_ON_TRANSPARENT _SURFACE_TYPE_TRANSPARENT
@@ -88,7 +88,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MainTexture:
-        m_Texture: {fileID: 2800000, guid: 860444459279c48b9b3aa71188cab585, type: 3}
+        m_Texture: {fileID: 2800000, guid: 3eeabc9f269bb47968b31962bc1708bc, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MaskMap:
