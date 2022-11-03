@@ -43851,7 +43851,7 @@ GameObject:
   m_Component:
   - component: {fileID: 3266963553401242674}
   m_Layer: 0
-  m_Name: VFX Area Of Effect
+  m_Name: VFX Area Of Effect Arcane
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
